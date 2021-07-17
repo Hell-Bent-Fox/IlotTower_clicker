@@ -1,0 +1,1 @@
+{'main_task': 'farm_exp', 'second_task': 'walk_to_point(-4;6;2)', 'third_task': 'fight', 'player_level': '16', 'health': '491', 'max_health': '615', 'position': '-1;3;2', 'last_move': 'запад', 'heal_comand': ''}
